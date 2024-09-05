@@ -1,0 +1,125 @@
+html,
+body{
+    height: 100%;
+    background-color: #222d32 !important;
+    font-family: "Roboto",sans-serif;
+}
+
+.global-container{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #222d32;
+}
+
+form{
+    padding-top: 10px;
+    font-size: 14px;
+    margin-top: 30px;
+}
+
+.login-form{
+    width: 500px;
+    height: 450px;
+    margin: 20px;
+    background: #ecf0f1 !important;
+    border-radius: 10px !important;
+}
+.login-form1{
+    width: 600px;
+    height: 1000px;
+    margin: 20px;
+    background: #ecf0f1 !important;
+    border-radius: 10px !important;
+}
+
+.login-form2{
+    width: 600px;
+    height: 1000px;
+    margin: 20px;
+    background: #ecf0f1 !important;
+    border-radius: 10px !important;
+}
+
+.login-form4{
+    width: 600px;
+    height: 650px;
+    margin: 20px;
+    background: #ecf0f1 !important;
+    border-radius: 10px !important;
+}
+
+input[type="email"],
+input[type="password"]{
+    background: #ecf0f1;
+    border: 2px solid  #222d32;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+input[type="email"]:focus,
+input[type="password"]:focus{
+    outline: none;
+    border: none;
+    background: #ecf0f1;
+    margin: 0;
+}
+input[type="text"]{
+    background: #ecf0f1;
+    border: 2px solid  #222d32;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+input[type="text"]:focus{
+    outline: none;
+    border: none;
+    background: #ecf0f1;
+    margin: 0;
+}
+select[id="inputState"]{
+    background: #ecf0f1;
+    border: 2px solid  #222d32;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+select[id="inputState"]:focus{
+    outline: none;
+    border: none;
+    background: #ecf0f1;
+    margin: 0;
+}
+
+
+textarea[id="exampleFormControlTextarea1"]{
+    background: #ecf0f1;
+    border: 2px solid  #222d32;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+textarea[id="exampleFormControlTextarea1"]:focus{
+    outline: none;
+    border: none;
+    background: #ecf0f1;
+    margin: 0;
+}
+.card-title{
+font-weight: 900;
+padding-top: 20px;
+}
+
+.btn{
+    background: #222d32 !important ;
+    font-size: 14px;
+    transform: translateY(10px);
+    border-radius: 10px !important;
+}
+
+
+.signup{
+    text-align: center;
+    padding-top: 25px;
+
+}
+
