@@ -103,7 +103,7 @@ echo '
 
 
 
-<h1 align="center" >Available Product List</h1>
+<h1 align="center" >List of Available Products</h1>
         <br><br>
             <table class="table table-bordered" style="font-size: 20px;">
                 <tr align="center" >
