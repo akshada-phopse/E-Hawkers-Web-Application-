@@ -46,7 +46,7 @@ if ( isset($_POST['btn-update']) )
     <div class="global-container">
         <div class="card login-form2">
             <div class="card-body">
-                <h1 class="card-title text-center">Edit Your Details</h1>
+                <h1 class="card-title text-center">Update/Edit Your Details</h1>
                 <div class="card-text">
                         <form action="EditHawkProfile.php" method="post">
                             <div class="form-group">
